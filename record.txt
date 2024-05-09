@@ -5,5 +5,3 @@ shyam
 rahul
 lokesh
 sharma
-shakshi
-bhushan
